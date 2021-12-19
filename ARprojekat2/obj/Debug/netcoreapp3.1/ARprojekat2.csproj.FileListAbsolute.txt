@@ -1,0 +1,13 @@
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\bin\Debug\netcoreapp3.1\ARprojekat2.exe
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\bin\Debug\netcoreapp3.1\ARprojekat2.deps.json
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\bin\Debug\netcoreapp3.1\ARprojekat2.runtimeconfig.json
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\bin\Debug\netcoreapp3.1\ARprojekat2.runtimeconfig.dev.json
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\bin\Debug\netcoreapp3.1\ARprojekat2.dll
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\bin\Debug\netcoreapp3.1\ARprojekat2.pdb
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\obj\Debug\netcoreapp3.1\ARprojekat2.csprojAssemblyReference.cache
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\obj\Debug\netcoreapp3.1\ARprojekat2.AssemblyInfoInputs.cache
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\obj\Debug\netcoreapp3.1\ARprojekat2.AssemblyInfo.cs
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\obj\Debug\netcoreapp3.1\ARprojekat2.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\obj\Debug\netcoreapp3.1\ARprojekat2.dll
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\obj\Debug\netcoreapp3.1\ARprojekat2.pdb
+C:\Users\Jelena\source\repos\ARprojekat2\ARprojekat2\obj\Debug\netcoreapp3.1\ARprojekat2.genruntimeconfig.cache
